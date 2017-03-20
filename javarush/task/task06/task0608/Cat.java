@@ -18,6 +18,7 @@ public class Cat {
 
     }
 
+
     public static void setCatCount(int catCount) {
 
         Cat.catCount = catCount;
